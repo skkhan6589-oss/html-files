@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;
+    font-style: italic;
+    font-size: 50px;
+}
+tr{
+     font-style: italic;
+     background-color: aqua;
+}
+th{
+    background-color: black;
+    color:white;
+}

@@ -1,0 +1,32 @@
+h1{
+background-color: blue;
+font-size: 25;
+font-style: italic;
+}
+.label{
+    font-style: italic;
+    color: white;
+    background-color: navy;
+    font-size: 25px;
+}
+.body-text{
+     font-style:italic;
+     color:black;
+     background-color:yellow;
+     font-size: 50px;
+}
+body{
+    background-color: pink;
+}
+.quate{
+    font-style: italic;
+    background-color: blueviolet;
+    color:black;
+    font-size:35px;
+}
+.sherr{
+    font-size: 30px;
+    background-color:red;
+    font-style: oblique;
+    color:green;
+}
